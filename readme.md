@@ -1,2 +1,2 @@
 # MarViN
-The dataset will release soon.
+The dataset will be released soon
