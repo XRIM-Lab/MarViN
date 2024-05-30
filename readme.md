@@ -38,10 +38,7 @@ MARViN
 ```
 
 # Pose Format
-We provide both json poses txt poses files.
-We give 4*4 matrix 
-image_name: ```[R|T]```， ```T``` are camera to world coordinates.
-  
+We provide txt poses files.
 For test/train.txt poses files:
 ```image_name x y z qw qx qy qz```.
 
