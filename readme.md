@@ -53,3 +53,15 @@ For ARKit/ARCore.txt poses files:
 
 Unity -> COLMAP:
 ```y -> -y, qy -> -qy```
+
+<h3 id="citation">Citation</h3>
+		<pre class="citation-code"><code><span>@INPROCEEDINGS{10536574,
+  author={Liu, Changkun and Zhao, Yukun and Braud, Tristan},
+  booktitle={2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)}, 
+  title={MARViN: Mobile AR Dataset with Visual-Inertial Data}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={532-538},
+  keywords={Performance evaluation;Visualization;Solid modeling;Three-dimensional displays;Pose estimation;User interfaces;Cameras;Visual localisation Dataset—Camera pose regression—Visual-Inertial Odometry—Visual positioning system;Computer Vision—Augmented Reality},
+  doi={10.1109/VRW62533.2024.00103}}</code></pre>
