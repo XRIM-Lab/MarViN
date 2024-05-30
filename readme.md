@@ -10,3 +10,29 @@ Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 2024<br>
 
 
 You can download the MARViN dataset [link](https://hkustconnect-my.sharepoint.com/:f:/g/personal/cliudg_connect_ust_hk/Ek76M4OIy31KrNrizKxlEbIBvlXNQVLv2Ft3vtL9EphwWw?e=3bDJSo). 
+
+
+```
+MARViN
+├── atrium
+│   ├── seqxx
+│        ├── image.jpg
+│        ├── ARKit/ARCore.txt
+│        ├── GyroscopeData.txt
+│        ├── GPSData.txt
+│        ├── AccelerometerData.txt
+│        ├── MagnetometerData.txt
+│   ├── test.txt
+│   └── train.txt
+├── ....
+│
+└── stairs
+│   ├── seqxx
+│        ├── image.jpg
+│        ├── ARKit/ARCore.txt
+│        ├── GyroscopeData.txt
+│        ├── AccelerometerData.txt
+│        ├── MagnetometerData.txt
+    ├── test.txt
+    └── train.txt
+```
