@@ -51,5 +51,5 @@ For ARKit/ARCore.txt poses files:
 ```x, y, z``` are camera to world coordinates.
 6DoF poses in ARKit/ARCore.txt follow the Unity coordinate system.
 
-Unity -> COLMAP
+Unity -> COLMAP:
 ```y -> -y, qy -> -qy```
