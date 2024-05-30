@@ -36,6 +36,7 @@ MARViN
 │   ├── test.txt
 │   └── train.txt
 ```
+Note that due to the low gps accuracy of indoor scenes, we do not provide gps data in the seqs of indoor scenes.
 
 # Pose Format
 We provide txt poses files.
