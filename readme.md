@@ -33,6 +33,6 @@ MARViN
 │        ├── GyroscopeData.txt
 │        ├── AccelerometerData.txt
 │        ├── MagnetometerData.txt
-    ├── test.txt
-    └── train.txt
+│   ├── test.txt
+│   └── train.txt
 ```
