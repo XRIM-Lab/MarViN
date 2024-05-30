@@ -43,9 +43,13 @@ For test/train.txt poses files:
 ```image_name x y z qw qx qy qz```.
 
 ```x, y, z``` are camera to world coordinates.
-Our 6DoF poses follow the COLMAP coordinate system.
+6DoF poses in test/train.txt follow the COLMAP coordinate system.
 
 For ARKit/ARCore.txt poses files:
 ```image_name x y z qw qx qy qz```.
 
 ```x, y, z``` are camera to world coordinates.
+6DoF poses in ARKit/ARCore.txt follow the Unity coordinate system.
+
+Unity -> COLMAP
+```y -> -y, qy -> -qy```
