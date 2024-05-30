@@ -36,3 +36,19 @@ MARViN
 │   ├── test.txt
 │   └── train.txt
 ```
+
+# Pose Format
+We provide both json poses txt poses files.
+We give 4*4 matrix 
+image_name: ```[R|T]```， ```T``` are camera to world coordinates.
+  
+For test/train.txt poses files:
+```image_name x y z qw qx qy qz```.
+
+```x, y, z``` are camera to world coordinates.
+Our 6DoF poses follow the COLMAP coordinate system.
+
+For ARKit/ARCore.txt poses files:
+```image_name x y z qx qy qz qw```.
+
+```x, y, z``` are camera to world coordinates.
