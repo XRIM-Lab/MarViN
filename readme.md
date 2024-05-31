@@ -55,6 +55,42 @@ For ARKit/ARCore.txt poses files:
 Unity -> COLMAP:
 ```y -> -y, qy -> -qy```
 
+# Sensor Data Format
+
+We provide txt sensor data files, which include gyroscope, GPS, accelerometer and magnetometer data respectively. 
+
+* Gyroscope data
+
+  For GyroscopeData.txt files: 
+
+  ```image_name qw qx qy qz```
+
+  The quaternion follows the Unity coordinate system and represents the device's orientation. 
+
+* GPS data
+
+  For GPSData.txt files:
+
+  ```image_name x y z```
+
+  ```x, y, z``` are latitude, longitude and altitude respectively.
+
+* Accelerometer data
+
+  For AccelerometerData.txt files: 
+
+  ```image_name x y z```
+
+  ```x y z``` are last measured linear acceleration of a device in three-dimensional space following the Unity coordinate system.
+
+* Magnetometer data
+
+  For MagnetometerData.txt files:
+
+  ```image_name trueHeading```
+
+  ```trueHeading``` is the heading in degrees relative to the geographic North Pole.
+
 <h3 id="citation">Citation</h3>
 		<pre class="citation-code"><code><span>@INPROCEEDINGS{10536574,
   author={Liu, Changkun and Zhao, Yukun and Braud, Tristan},
