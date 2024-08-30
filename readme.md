@@ -93,7 +93,7 @@ We provide txt sensor data files, which include gyroscope, GPS, accelerometer an
 
 
 # Data Capture App based on Unity
-Our Data Capture App is [opensource](https://github.com/yukunzhao998/DataCapture)
+Our Data Capture App is [opensource](https://github.com/yukunzhao998/DataCapture), please cite this paper and star this repo if you find our dataset or data capture app is helpful. Thanks!
 <h3 id="citation">Citation</h3>
 		<pre class="citation-code"><code><span>@INPROCEEDINGS{10536574,
   author={Liu, Changkun and Zhao, Yukun and Braud, Tristan},
