@@ -95,13 +95,11 @@ We provide txt sensor data files, which include gyroscope, GPS, accelerometer an
 # Data Capture App based on Unity
 Our Data Capture App is [opensource](https://github.com/yukunzhao998/DataCapture), please cite this paper and star this repo if you find our dataset or data capture app is helpful. Thanks!
 <h3 id="citation">Citation</h3>
-		<pre class="citation-code"><code><span>@INPROCEEDINGS{10536574,
+		<pre class="citation-code"><code><span>@inproceedings{liu2024marvin,
+  title={MARViN: Mobile AR Dataset with Visual-Inertial Data},
   author={Liu, Changkun and Zhao, Yukun and Braud, Tristan},
-  booktitle={2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)}, 
-  title={MARViN: Mobile AR Dataset with Visual-Inertial Data}, 
+  booktitle={2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)},
+  pages={532--538},
   year={2024},
-  volume={},
-  number={},
-  pages={532-538},
-  keywords={Performance evaluation;Visualization;Solid modeling;Three-dimensional displays;Pose estimation;User interfaces;Cameras;Visual localisation Dataset—Camera pose regression—Visual-Inertial Odometry—Visual positioning system;Computer Vision—Augmented Reality},
-  doi={10.1109/VRW62533.2024.00103}}</code></pre>
+  organization={IEEE}
+}}</code></pre>
