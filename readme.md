@@ -9,7 +9,7 @@ The Hong Kong University of Science and Technology<br>
 Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 2024<br>
 
 
-You can download the MARViN dataset [link](https://hkustconnect-my.sharepoint.com/:f:/g/personal/cliudg_connect_ust_hk/Ek76M4OIy31KrNrizKxlEbIBvlXNQVLv2Ft3vtL9EphwWw?e=3bDJSo). 
+You can download the MARViN dataset [link](https://drive.google.com/drive/folders/18vPfKB4jlDwtFzytMijYOpmeqU1A9-Ie?usp=sharing). 
 
 
 ```
